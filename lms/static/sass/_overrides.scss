@@ -142,3 +142,17 @@ main.static_pages{
 		}
 	}
 }
+
+/*
+* CMM
+*/
+
+.course-wrapper .course-content .vert-mod .vert {
+	border-bottom: none !important;
+	padding-bottom: 0px !important;
+	margin-bottom: 0px !important;
+}
+
+.problems-wrapper .problem-header {
+	display: none;
+}
